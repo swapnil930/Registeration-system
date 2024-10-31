@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "5175",
+      "username": "Swapnil",
+      "DOB": "16/01/2002",
+      "email": "kswapnil930@gmail.com",
+      "password": "Kswapnil@123"
+    },
+    {
+      "id": "ec18",
+      "username": "Suresh",
+      "DOB": "10/02/2000",
+      "email": "suresh123@gmail.com",
+      "password": "Suresh@123"
+    },
+    {
+      "id": "4409",
+      "username": "Ramesh",
+      "DOB": "01/01/2001",
+      "email": "ramesh123@gmail.com",
+      "password": "Ramesh@123"
+    },
+    {
+      "id": "2279",
+      "username": "Kalpesh",
+      "DOB": "18/04/2003",
+      "email": "kalpesh123@gmail.com",
+      "password": "Kalpesh@123"
+    },
+    {
+      "id": "557b",
+      "username": "Durgesh",
+      "DOB": "20/05/2004",
+      "email": "durgesh123@gmail.com",
+      "password": "Durgesh@123"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+body {
+  background: linear-gradient(to right, #1a8b9f, #23d5ab);
+  height: 100vh;
+}
+.login-card {
+  background: #2a2d3b;
+  border-radius: 10px;
+  padding: 30px;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.login-card .form-group input:focus {
+  box-shadow: none;
+  border-style: none;
+  background-color: #3b3f52;
+}
+.login-card .form-group input{
+  background-color: #3b3f52;
+}
+.login-card .btn-primary {
+  background-color: #23d5ab;
+  border: none;
+  width: 100%;
+}
+.login-card .btn-primary:hover {
+  background-color: #1a8b9f;
+}
+.login-card .login-header {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: -40px;
+  margin-bottom: 40px;
+}
+.login-card .login-header span {
+  background: #23d5ab;
+  padding: 10px 50px;
+  color: #2a2d3b;
+  margin-bottom: 20px;
+}
+.login-card .form-check-label{
+  color: #23d5ab;
+  margin-right: 77px;
+}
+
+.login-card .form-check a{
+  color: #23d5ab;
+  text-decoration: none;
+}
+.form-check-input:checked::after {
+  color: #23d5ab !important;
+  font-size: 7px;
+  position: absolute;
+}
+.form-check-input{
+  border: 2px solid #23d5ab !important;
+}
+
+.login-card .container input{
+  display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    appearance: none;
+    background-clip: padding-box;
+    border: none;
+    background-color: #5b5d6d;
+    outline:none !important;
+    outline-style: none !important  ;
+    color: whitesmoke;
+}
+.login-card .container input::placeholder{
+color: azure;
+}
+
+.login-card .container{
+  display: flex;
+  justify-content: space-around;
+  background-color:#5b5d6d;
+  border: 1px solid none;
+  padding: 3px;
+  border-radius: 7px;
+
+}
+.user-icon {
+  font-size: 100px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #5b5d6d;
+}
+
+    
+  
